@@ -11,4 +11,3 @@
   }
   return new_str.length === 0 ? true : false;
 }
-}
